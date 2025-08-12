@@ -45,4 +45,9 @@ To address this imbalance, the ADASYN oversampling technique was applied during 
   Developed and deployed the final model as an interactive web application using Streamlit for real-time loan default risk prediction.
 
 ---
+## Screenshots
+
+### Web App -streamlit
+
+![App Screenshot](images/app_screenshot.png)
 
