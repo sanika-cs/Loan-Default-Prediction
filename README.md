@@ -49,13 +49,5 @@ To address this imbalance, the ADASYN oversampling technique was applied during 
 
 ### Web App -streamlit
 
-![App Screenshot](## Screenshots
-
-### Gradio Web App Interface
-
 ![App Screenshot](images/app_screenshot.png)
-
-### Model Evaluation Metrics
-
-![Model Metrics](images/model_metrics.png))
 
