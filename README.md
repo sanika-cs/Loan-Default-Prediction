@@ -49,5 +49,5 @@ To address this imbalance, the ADASYN oversampling technique was applied during 
 
 ### Web App -streamlit
 
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](Screenshot%202025-08-12%20203921.png)
 
