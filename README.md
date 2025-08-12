@@ -1,4 +1,4 @@
-# Loan Default Prediction using Ensemble Models
+# Lending Loan Default Prediction using Ensemble Models
 
 This project presents a supervised machine learning pipeline to predict the risk of loan default using tabular financial data. It leverages ensemble learning techniques and advanced tools for model tuning, interpretation, and deployment.
 
